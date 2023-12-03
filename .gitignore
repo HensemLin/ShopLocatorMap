@@ -1,0 +1,4 @@
+BackEnd/venv/
+BackEnd/.env
+WebAPP/node_modules/
+WebAPP/.env
